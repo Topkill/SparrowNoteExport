@@ -11,15 +11,18 @@
 
 - `zip` 解压后可以得到两个 `exe` 程序
 
-  ![image-20250125221545682](E:/Program Files/feiq/Recv Files/笔记/typora-user-images/README/image-20250125221545682.png)
+  ![image](https://github.com/user-attachments/assets/64963fd9-c3ee-446e-916f-adc2b16496e3)
+
 
 - 首先双击运行 `麻雀记图文笔记导出.exe` ，输入备份文件绝对路径或拖动麻雀记的备份文件到程序窗口，回车即可，会在当前目录下生成一个 **麻雀记** 文件夹，里面是 `html` 格式的图文笔记
 
-  ![image-20250125212602737](E:/Program Files/feiq/Recv Files/笔记/typora-user-images/README/image-20250125212602737.png)
+![image](https://github.com/user-attachments/assets/510db9f3-df01-40e4-9340-6a0db4ad0ff5)
+
 
 - 之后如果想把 `html` 转换 `md` 文档，可以使用 `html转换md（保留源文件时间）.exe`，双击运行，软件会自动查找当前目录下的 **麻雀记** 文件夹，进行转换，生成 **麻雀记_md** 文件夹，存放转换后的 `md` 文档。
 
-  ![image-20250125214350507](E:/Program Files/feiq/Recv Files/笔记/typora-user-images/README/image-20250125214350507.png)
+  ![image](https://github.com/user-attachments/assets/35a2d12a-2880-4814-b541-a9df674312c1)
+
   
   > 如果不想使用作者提供的 `html` 转 `md` 的程序（此程序我写的比较简单），可以自行寻找其他方案，比如找一个支持导入 `html` 的笔记软件，导入之后再导出为 `markdown` 文档。
 
